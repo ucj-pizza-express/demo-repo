@@ -4,6 +4,6 @@ export default function EventHandle (){
 return <>
 <h1>Event handling Example</h1>
 <input type="text" name="" id=""  placeholder="Type here"/>
-<p>sample</p>
+<p>Hard</p>
 </>
 }
