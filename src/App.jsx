@@ -11,7 +11,7 @@ import Taskmanager from "./core concept/Taskmanager/Taskmanager"
 
 function App() {
 
-  //return <HelloWord/>
+  return <HelloWord/>
   //return <Greeting/>
  // return <Greeting/>
  //return <JSXEx/>
@@ -20,7 +20,7 @@ function App() {
  //return <EventHandle/>
 //return <Form/>
 //return <ListedItem/>
-return <Taskmanager/>
+//return <Taskmanager/>
 }
 
 export default App

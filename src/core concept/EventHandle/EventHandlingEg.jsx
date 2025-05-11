@@ -2,7 +2,6 @@ import { useState } from "react";
 export default function EventHandle (){
     const [sampletext,settext] = useState('');
     const handlefunction = (abc) => {
-        
         settext(abc.target.value)
     }
 return <>
