@@ -1,0 +1,43 @@
+.form-add-btn {
+ background-color: blue;
+ border-radius: 10px;
+
+ color: white;
+
+}
+.form-txt{
+    
+    background-color: lightyellow;
+    padding: 10px;
+    border: 3px solid black;
+    border-radius: 10px;
+    color: black;
+    
+}
+.task-action{
+    display: flex;
+justify-content: center;
+gap: 5px;
+}
+#task-list-li{
+    margin-top: 10px;
+    background-color: blue;
+    padding: 10px;
+    color: white;
+    border: 5px solid gray;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.task-list-ul{
+    list-style: none;
+}
+.task-list-completed{
+    text-decoration: line-through;
+}
+.delete{
+   background-color: red;
+   padding: 0px 10px; 
+   cursor: pointer;
+}
